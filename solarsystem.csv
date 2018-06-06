@@ -1,0 +1,12 @@
+# COLUMN pl_orbper:      Orbital Period [days],,,
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [AU]),,,
+#,,,
+rowid,,pl_orbper,pl_orbsmax
+1,mercury,87.969,0.387098
+2,venus,224.701,0.723332
+3,earth,365.256363,1
+4,mars,686.971,1.523679
+5,jupiter,4332.59,5.204267
+6,saturn,10759.22,9.5820172
+7,uranus,30687.15,19.189253
+8,neptune,60190.03,30.0709
